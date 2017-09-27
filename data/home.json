@@ -1,0 +1,103 @@
+[{
+        "title": "Auburn",
+        "address": "743 plano, TX 75043",
+        "floor_plan": "5 beds - 3 baths - 2800 sqft",
+        "description": "Home was built with has unique woodwork and accents throughout the home. Partial wood paneling and tile backsplash bring an elegance to the kitchen, and family room is augmented by a raised interval ceiling and wood walls. 5th bedroom could double as a studio with one wall a full mirror. ",
+        "price": 100000,
+        "monthly": 850,
+
+        "Broker": {
+            "name": "John Doe",
+            "phone": "(972) 241-4521",
+            "email": "johndoe@gmail.com"
+        },
+
+        "image": "home1.jpg",
+        "views": 213
+    },
+    {
+        "title": "Madison",
+        "address": "300 Plano, TX 75043",
+        "floor_plan": "5 beds - 3 baths - 2800 sqft",
+        "footage": "2800 sqft",
+        "description": "home has unique woodwork and accents throughout the home. ",
+        "price": 250000,
+
+        "Broker": {
+            "name": "John Doe",
+            "phone": "(972) 241-4521",
+            "email": "johndoe@gmail.com"
+        },
+
+        "image": "home2.jpg",
+        "views": 422
+    },
+    {
+        "title": "Memphis",
+        "address": "181 Mckinney, TX 75043",
+        "floor_plan": "5 beds - 3 baths - 2800 sqft",
+        "footage": "2800 sqft",
+        "description": "home has unique woodwork and accents throughout the home. Partial wood paneling and tile backsplash bring an elegance to the kitchen, and family room is augmented by a raised interval ceiling and wood walls. 5th bedroom could double as a studio with one wall a full mirror. Out back, large covered patio leads to pool and grassy area - an ideal entertaining space. ",
+        "price": 300000,
+
+        "Broker": {
+            "name": "John Doe",
+            "phone": "(972) 241-4521",
+            "email": "johndoe@gmail.com"
+        },
+
+        "image": "home3.jpg",
+        "views": 23
+    },
+    {
+        "title": "Dallas",
+        "address": "1814 Westshore Dr,Garland, TX 75043",
+        "floor_plan": "5 beds - 3 baths - 2800 sqft",
+        "footage": "2800 sqft",
+        "description": "home has unique woodwork and accents throughout the home. Partial wood paneling and tile backsplash bring an elegance to the kitchen, and family room is augmented by a raised interval ceiling and wood walls. 5th bedroom could double as a studio with one wall a full mirror. Out back, large covered patio leads to pool and grassy area - an ideal entertaining space. ",
+        "price": 300000,
+
+        "Broker": {
+            "name": "John Doe",
+            "phone": "(972) 241-4521",
+            "email": "johndoe@gmail.com"
+        },
+
+        "image": "home4.jpg",
+        "views": 77
+    },
+    {
+        "title": "Omaha",
+        "address": "311 Allen tx 75010",
+        "floor_plan": "5 beds - 3 baths - 2800 sqft",
+        "footage": "2800 sqft",
+        "description": "home has unique woodwork and accents throughout the home. Partial wood paneling and tile backsplash bring an elegance to the kitchen, and family room is augmented by a raised interval ceiling and wood walls. 5th bedroom could double as a studio with one wall a full mirror. Out back, large covered patio leads to pool and grassy area - an ideal entertaining space. ",
+        "price": 300000,
+
+        "Broker": {
+            "name": "John Doe",
+            "phone": "(972) 241-4521",
+            "email": "johndoe@gmail.com"
+        },
+
+        "image": "home5.jpg",
+        "views": 889
+    },
+    {
+        "title": "Brandon",
+        "address": "21 Plano tx 75050",
+        "floor_plan": "5 beds - 4 baths - 2800 sqft",
+        "footage": "2800 sqft",
+        "description": "home has unique woodwork and accents throughout the home. Partial wood paneling and tile backsplash bring an elegance to the kitchen, and family room is augmented by a raised interval ceiling and wood walls. 5th bedroom could double as a studio with one wall a full mirror. Out back, large covered patio leads to pool and grassy area - an ideal entertaining space. ",
+        "price": 300000,
+
+        "Broker": {
+            "name": "John Doe",
+            "phone": "(972) 241-4521",
+            "email": "johndoe@gmail.com"
+        },
+
+        "image": "home6.jpg",
+        "views": 423
+    }
+]
